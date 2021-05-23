@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         val phone_number = R.id.phone_number_text
 
         if(phone_number.toString() == ""){
-            //do something here. 
+            //do something here.
         }
     }
 }
