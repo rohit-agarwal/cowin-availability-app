@@ -11,7 +11,8 @@ class MainActivity : AppCompatActivity() {
         val phone_number = R.id.phone_number_text
 
         if(phone_number.toString() == ""){
-            //do something here. some more comment text. asfasfasf
+            //do something here. some more comment text.
+            //adding more comments
         }
     }
 }
