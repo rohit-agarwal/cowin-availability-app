@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cowin Availability App</string>
+    <string name="welcome_user">Welcome User!</string>
+    <string name="before_you_begin">Before you begin: by using this app:<br /><br />
+        - You agree to allow the app to store your phone number locally.<br />
+        - You agree to allow the app to conect to internet to fetch latest information from Cowin Goverment Website.<br />
+        - You agree to allow app to read your message for OTP based authentication<br />
+        - You agree that you are responsible for the internet usage of this app<br />
+        - You are responsible for all the traffic on the Government website which the app will create once it starts fetching information.<br />
+    </string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="submit">Submit</string>
+
+    <item type="bool" name="eula_status">false</item>
+</resources>
